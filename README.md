@@ -13,7 +13,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Technologies I'm curently using  
 <table><tr><td valign="top" width="33%">
 
 
