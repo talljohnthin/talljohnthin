@@ -1,10 +1,10 @@
 ### <div align="center">I'm Johnrel, a full-time Front End Developer 👨‍💻 with more than five years of working experience 🚀</div>  
   
 
-- 🔭 I’m currently working on a food delivery app using Node, Express and Typescript  
+- 🔭 I’m currently working on a clothing website/app using Node, Express and Typescript  
   
 
-- 🌱 I’m currently learning Backend  
+- 🌱 I’m currently learning Backend  / Node JS and Express
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
